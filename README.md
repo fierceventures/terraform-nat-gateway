@@ -1,5 +1,4 @@
 # AWS NAT Gateway
-=============================
 
 This module can be used to deploy an AWS NAT Gateway.
 
